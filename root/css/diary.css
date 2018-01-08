@@ -1,0 +1,51 @@
+/*Gfont link*/
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Open+Sans:300,400');
+
+
+
+/*Global formatting*/
+
+
+html {
+    background: url("../images/sakura.png");
+}
+
+body {
+    width: 800px;
+    background: #ccced3;
+    border: 20px solid #666;
+    padding: 20px;
+    margin: 100px auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/*Formatting for intro stuff*/
+
+.intro {
+    text-align: center;
+    
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 200px;
+    color: #7d161b;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0;
+}
+
+.worst-day-title{
+    color: blueviolet;
+}
+.best-day-title {
+    color:darkgreen;
+}
+.best{
+    color: rgb(132,145,36)
+}
+.worst {
+    color:darkblue
+}
